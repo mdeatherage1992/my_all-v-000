@@ -7,3 +7,4 @@ while i < collection.length
   block_return_values.push(yield(collection[i]))
   i += 1
 end
+end
